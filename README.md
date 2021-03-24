@@ -1,2 +1,2 @@
-# Hostel-Management-System
-Database Management System Project in PHP using XAAMP server 
+# Hostel-Management-System 
+Database Management System Project in PHP,MYSQL using XAAMP server 
