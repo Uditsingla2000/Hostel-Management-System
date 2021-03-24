@@ -71,5 +71,23 @@
       </div>
             <button type="Submit" name="Submit" >Login</button>
 </form>
+      
+	 <h3>Passwords(Format-> username:password)</h3>
+    <label> <strong>Student Login</strong></label><br>
+    191210052:test123 , 191210048:test123 , 191210061:test123
+    <br><br>
+    <label> <strong>Admin Login</strong></label><br>
+	admin:test123
+	<br><br>
+    <label> <strong>Security Login</strong></label><br>
+	security:test123
+	<br><br>
+    <label> <strong>Sports Room Login</strong></label><br>
+	sports:test123
+	<br><br>
+    <label> <strong>Mess Incharge Login</strong></label><br>
+	mess:test123
+	<br><br>
+   
   </body>
 </html>
